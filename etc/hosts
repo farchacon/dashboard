@@ -1,0 +1,31 @@
+# Copyright (c) 1994 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Chicago
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+127.0.0.1       localhost
+
+10.11.7.2	cgsapdb1	cgsapdb1.plumrose.com
+10.11.7.3	cgsapap1	cgsapap1.plumrose.com
+10.11.7.9	cgsapap2	cgsapap2.plumrose.com
+10.11.7.5	cgsapap3	cgsapap3.plumrose.com
+10.11.7.6	cgsapap4	cgsapap4.plumrose.com
+10.11.7.4       cgsapqa2	cgsapqa2.plumrose.com
+10.11.7.7	cgsapdb3	cgsapdb3.plumrose.com
+10.11.4.16	cgsapdl1	cgsapdl1.plumrose.com
+10.11.4.25	cgsapbw1	cgsapbw1.plumrose.com
+10.11.13.13	cssapbr1	cgsapbr1.plumrose.com
+10.11.7.10	cgtsmap2	cgtsmap2.plumrose.com
